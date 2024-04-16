@@ -4,7 +4,7 @@ My First GenAI Application hosted on Streamlit -- MCQ Generating bot using Gemin
 ![image](https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/8e358a40-437e-4446-940f-8f6f46e72f10)
 
 
-<img width="1188" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/5e593d6e-a4a2-4300-87bd-1eb4ca96341d">
+<img width="1198" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/c78e02fe-c91e-4cf1-b13c-4d9b6c20a972">
 
 
 <img width="933" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/b65425aa-7fea-4666-b6cc-77db48e37d95">
