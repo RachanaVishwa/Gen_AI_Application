@@ -1,7 +1,19 @@
 # Gen_AI_Application
-My First GenAI Application hosted on Streamlit -- MCQ Generating bot using Gemini AI 
+My First GenAI Application hosted on Streamlit -- 
+1. AI Code Reviewer
+2. MCQ Generating bot using Gemini AI 
 
 ![image](https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/8e358a40-437e-4446-940f-8f6f46e72f10)
+
+
+<img width="1090" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/f55a0506-ae1b-4872-bb50-675777745956">
+
+
+<img width="1087" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/6ba3d066-139a-48b8-b45b-45977ebfb63f">
+
+
+<img width="1171" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/f8573330-7a9e-40a1-b45a-d9922a89ecfb">
+
 
 
 <img width="1198" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/c78e02fe-c91e-4cf1-b13c-4d9b6c20a972">
