@@ -15,6 +15,8 @@ My First GenAI Application hosted on Streamlit --
 <img width="1171" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/f8573330-7a9e-40a1-b45a-d9922a89ecfb">
 
 
+<img width="1088" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/4f791719-2a85-4859-bf7e-83982f1a4f2e">
+
 
 <img width="1198" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/c78e02fe-c91e-4cf1-b13c-4d9b6c20a972">
 
