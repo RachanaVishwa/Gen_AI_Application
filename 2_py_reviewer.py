@@ -26,10 +26,9 @@ st.title('💬AI Code Reviewer')
 # User Input
 st.header('User Input')
 code = st.text_area('✍🏻Please Enter your Python code here...✍🏻')
-st.button("Review👀")
 
 # Review the code
-if st.text_area=='code':
+if st.button("Review👀"):
     st.balloons()
 
     # Generate prompt for the model
@@ -46,5 +45,5 @@ if st.text_area=='code':
     else:
         st.write("🔄Please try again.")
 
-else:
-    st.write("Please enter your query first")
+#else:
+#    st.write("Please enter your query first")
