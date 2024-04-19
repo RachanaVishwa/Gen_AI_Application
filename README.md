@@ -1,7 +1,10 @@
 # Gen_AI_Application
 My First GenAI Application hosted on Streamlit -- 
 1. AI Code Reviewer
-2. MCQ Generating bot using Gemini AI 
+2. MCQ Generating bot using Gemini AI
+3. Conversational Gem-AI Data Science Tutor
+
+
 
 ![image](https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/8e358a40-437e-4446-940f-8f6f46e72f10)
 
@@ -29,4 +32,21 @@ My First GenAI Application hosted on Streamlit --
 
 <img width="679" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/bafac8a7-1681-4b06-abc7-1d3874774ef7">
 
+
+# Conversational Gem-AI Data Science Tutor
+
+
+<img width="1228" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/82c9553d-1fd3-4ffd-92f2-cfdaba7d63fc">
+
+
+<img width="1202" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/058357b5-47be-46e1-bf72-a4132c062b9e">
+
+
+![WG36PrVI8pJH8sVarwYXBGuuDLBAC9ElahCVVAa8aeKYjPlcv1uPqGBrQz11OWFS03NSB0yiRl1NTgXfLUG47zJMbgOb9JLE9ZkIN2Wz25Vlk8CLQ0CzjRsBBQrQ](https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/73c78749-4d28-4386-8bc7-16d39c6be351)
+
+
+
+<img width="594" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/bdc7c36f-1c0a-490e-8cbf-a5aee4159668">
+
+<img width="1214" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/8ce152c8-cf5e-4a2f-aa21-876d0a546a0d">
 
