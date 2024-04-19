@@ -8,6 +8,7 @@ My First GenAI Application hosted on Streamlit --
 
 ![image](https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/8e358a40-437e-4446-940f-8f6f46e72f10)
 
+# AI Code Reviewer
 
 <img width="1090" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/f55a0506-ae1b-4872-bb50-675777745956">
 
@@ -20,6 +21,7 @@ My First GenAI Application hosted on Streamlit --
 
 <img width="1088" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/4f791719-2a85-4859-bf7e-83982f1a4f2e">
 
+# MCQ Generating bot using Gemini AI
 
 <img width="1198" alt="image" src="https://github.com/RachanaVishwa/Gen_AI_Application/assets/161026961/c78e02fe-c91e-4cf1-b13c-4d9b6c20a972">
 
